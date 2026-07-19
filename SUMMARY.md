@@ -48,7 +48,7 @@
 * [\[DF 三角洲\] MK 輔助 | 高穩多功款](delta-force/mk-cheat.md)
 * [\[DF 三角洲\] FR 輔助 | 高穩多功款](delta-force/fr-cheat.md)
 * [\[DF 三角洲\] EX 單透 | 極穩單透款](delta-force/ex-esp.md)
-* [\[DF 三角洲\]MK 輔助 | 款](delta-force/df-san-jiao-zhou-mk-fu-zhu-kuan.md)
+* [\[DF 三角洲\] 專用 AI 自瞄 |](delta-force/df-san-jiao-zhou-zhuan-yong-ai-zi-miao.md)
 * [\[DF 三角洲\] ANC 輔助 | 高穩驅動款](delta-force/anc-cheat/README.md)
   * [Nvidia顯卡 前置作業](delta-force/anc-cheat/nvidia-xian-ka-qian-zhi-zuo-ye.md)
   * [AMD顯卡 前置作業](delta-force/anc-cheat/amd-xian-ka-qian-zhi-zuo-ye.md)
