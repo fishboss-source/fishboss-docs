@@ -41,6 +41,7 @@
   * [Dezl 前置設定(必做)](valorant/dezl-cheat-1/dezl-qian-zhi-she-ding-bi-zuo.md)
   * [Dezl 電腦設定(必做)](valorant/dezl-cheat-1/dezl-dian-nao-she-ding-bi-zuo.md)
   * [Dezl 疑難排解](valorant/dezl-cheat-1/dezl-yi-nan-pai-jie.md)
+* [\[特戰\] SMD輔助 移除反作弊 使用教學](valorant/te-zhan-smd-fu-zhu-yi-chu-fan-zuo-bi-shi-yong-jiao-xue.md)
 
 ## Delta Force 三角洲行動 <a href="#delta-force" id="delta-force"></a>
 
