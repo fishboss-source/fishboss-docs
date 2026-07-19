@@ -1,0 +1,25 @@
+---
+description: 輔助遇到問題 請先自行排解 正常情況下 透過此教學可以輕鬆解決遇到的問題
+---
+
+# Dezl 疑難排解
+
+## 一、伺服器連接問題：錯誤402 (error 402)
+
+使用已經下載好的修復工具
+
+右鍵402修復工具.bat > 管理員身分啟動 > 開啟輔助 > Misc分類 > 點Connect > 等10秒 > 關閉輔助
+
+接著再次重啟輔助(管理員身分) > 點Connect > 等10秒 > 成功!
+
+## 二、輔助白頻 > 請多次以管理員身分重啟 直到顯示正常
+
+## 三、自瞄無效(從解法1 試到 4)
+
+### 解法1：重啟輔助 > 滑鼠拔掉重插 > 上靶場測試 解法2：重啟遊戲 > 重啟輔助 > 上靶場測試 解法3：更換其它滑鼠(推薦羅技) 解法4：如果螢幕是2K以上解析度的使用者，請更改顯示設定成(1920 x 1080)
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure></div>
+
+## 四、電腦藍屏 > 重開機 > 重開輔助 > 繼續玩
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (548).png" alt=""><figcaption></figcaption></figure></div>
