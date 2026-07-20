@@ -8,7 +8,7 @@
 
 #### <mark style="color:$primary;">推薦直接看影片操作</mark>
 
-{% embed url="https://youtu.be/6tC37clLSLw" %}
+{% embed url="https://youtu.be/F2b7czhGBLw?si=k6_eqUBVcp8w0G3D" %}
 
 ### 1.輔助安裝完成後先到網站將卡密激活並複製[(點我前往)](https://liustudio.online/liuai29/web/register)
 
