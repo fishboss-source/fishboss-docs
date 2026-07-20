@@ -4,13 +4,13 @@
 
 ### 請確保你有把 [通用前置作業四步驟](https://fishboss.gitbook.io/tutorial) 做完
 
-## 二、安裝輔助(點我下載)
+## 二、安裝輔助[(點我下載)](https://mega.nz/folder/2iYU2RZC#p6rCXAXdVwbFW63URnYgcA)
 
 #### <mark style="color:$primary;">推薦直接看影片操作</mark>
 
-{% embed url="https://youtu.be/F2b7czhGBLw" %}
+{% embed url="https://youtu.be/6tC37clLSLw" %}
 
-### 1.輔助安裝完成後先到網站將卡密複製下來(點我前往)
+### 1.輔助安裝完成後先到網站將卡密激活並複製[(點我前往)](https://liustudio.online/liuai29/web/register)
 
 <div align="left"><figure><img src="../.gitbook/assets/image (646).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -36,7 +36,7 @@
 
 #### 這邊請<mark style="background-color:$danger;">特別注意</mark>，玩的遊戲對應用哪個模式
 
-#### 1.<mark style="color:$danger;">瓦羅藍</mark>和<mark style="color:$danger;">apex</mark>使用模式4&#x20;
+#### 1.<mark style="color:$danger;">瓦羅藍</mark>和<mark style="color:$danger;">apex</mark>使用模式4 ，<mark style="color:$danger;">瓦羅蘭單機</mark>用模式3成功率是80%
 
 #### 2.<mark style="color:$danger;">三角洲</mark>或是<mark style="color:$danger;">其他遊戲</mark>都建議使用模式3，如果羅技下載不了再使用模式2
 
