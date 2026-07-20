@@ -35,7 +35,7 @@
 
 ## Delta Force 三角洲行動 <a href="#delta-force" id="delta-force"></a>
 
-* [\[DF 三角洲\] 專用 AI 自瞄 |](delta-force/df-san-jiao-zhou-zhuan-yong-ai-zi-miao.md)
+* [\[DF 三角洲\] 專用 AI 自瞄 使用教學](delta-force/delta-force-ai-aimbot.md)
 * [\[DF 三角洲\] MK 輔助 | 高穩多功款](delta-force/mk-cheat.md)
 * [\[DF 三角洲\] FR 輔助 | 高穩多功款](delta-force/fr-cheat.md)
 * [\[DF 三角洲\] EX 單透 | 極穩單透款](delta-force/ex-esp.md)

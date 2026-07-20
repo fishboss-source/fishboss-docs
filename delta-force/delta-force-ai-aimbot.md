@@ -2,13 +2,17 @@
 hidden: true
 ---
 
-# \[DF 三角洲]MK 輔助 | 款
+# \[DF 三角洲] 專用 AI 自瞄 使用教學
 
 ## 一、前置作業
 
 ### 請確保你有把 [通用前置作業四步驟](https://fishboss.gitbook.io/tutorial) 做完
 
 ## 二、安裝輔助(點我下載)
+
+#### <mark style="color:$primary;">推薦直接看影片操作</mark>
+
+{% embed url="https://youtu.be/mko9xRw6IFM" %}
 
 ### 1.輔助安裝完成後先到網站將卡密複製下來(點我前往)
 
