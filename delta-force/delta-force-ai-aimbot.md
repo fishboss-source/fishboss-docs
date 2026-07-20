@@ -8,7 +8,7 @@
 
 #### <mark style="color:$primary;">推薦直接看影片操作</mark>
 
-{% embed url="https://youtu.be/mko9xRw6IFM" %}
+{% embed url="https://youtu.be/F2b7czhGBLw" %}
 
 ### 1.輔助安裝完成後先到網站將卡密複製下來(點我前往)
 
