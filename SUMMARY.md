@@ -31,29 +31,17 @@
 ## VALORANT特戰英豪 <a href="#valorant" id="valorant"></a>
 
 * [\[特戰\] SC換膚輔助](valorant/sc_skinchanger.md)
-* [\[特戰\] DZ 找色自瞄 (停賣)](valorant/dezl-cheat/README.md)
-  * [Dezl 前置設定(必做)](valorant/dezl-cheat/dezl-qian-zhi-she-ding-bi-zuo.md)
-  * [Dezl 電腦設定(必做)](valorant/dezl-cheat/dezl-dian-nao-she-ding-bi-zuo.md)
-  * [DEZL重置滑鼠](valorant/dezl-cheat/dezl-zhong-zhi-hua-shu.md)
-  * [Dezl 疑難排解](valorant/dezl-cheat/dezl-yi-nan-pai-jie.md)
-* [\[特戰\] DZ 找色自瞄 (正式版)](valorant/dezl-cheat-1/README.md)
-  * [DEZL重置滑鼠(必做)](valorant/dezl-cheat-1/dezl-zhong-zhi-hua-shu-bi-zuo.md)
-  * [Dezl 前置設定(必做)](valorant/dezl-cheat-1/dezl-qian-zhi-she-ding-bi-zuo.md)
-  * [Dezl 電腦設定(必做)](valorant/dezl-cheat-1/dezl-dian-nao-she-ding-bi-zuo.md)
-  * [Dezl 疑難排解](valorant/dezl-cheat-1/dezl-yi-nan-pai-jie.md)
-* [\[特戰\] SMD輔助 移除反作弊 使用教學](valorant/te-zhan-smd-fu-zhu-yi-chu-fan-zuo-bi-shi-yong-jiao-xue.md)
+* [\[特戰\] SMD輔助 移除反作弊 使用教學](valorant/valorant-smd-emulator-tutorial.md)
 
 ## Delta Force 三角洲行動 <a href="#delta-force" id="delta-force"></a>
 
-* [\[DF 三角洲\] DFC 輔助 | 小白友善款](delta-force/df-san-jiao-zhou-dfc-fu-zhu-xiao-bai-you-shan-kuan.md)
+* [\[DF 三角洲\] 專用 AI 自瞄 |](delta-force/df-san-jiao-zhou-zhuan-yong-ai-zi-miao.md)
 * [\[DF 三角洲\] MK 輔助 | 高穩多功款](delta-force/mk-cheat.md)
 * [\[DF 三角洲\] FR 輔助 | 高穩多功款](delta-force/fr-cheat.md)
 * [\[DF 三角洲\] EX 單透 | 極穩單透款](delta-force/ex-esp.md)
-* [\[DF 三角洲\] 專用 AI 自瞄 |](delta-force/df-san-jiao-zhou-zhuan-yong-ai-zi-miao.md)
 * [\[DF 三角洲\] ANC 輔助 | 高穩驅動款](delta-force/anc-cheat/README.md)
   * [Nvidia顯卡 前置作業](delta-force/anc-cheat/nvidia-xian-ka-qian-zhi-zuo-ye.md)
   * [AMD顯卡 前置作業](delta-force/anc-cheat/amd-xian-ka-qian-zhi-zuo-ye.md)
-* [MK test](delta-force/mk-test.md)
 
 ## APEX英雄輔助 <a href="#apex" id="apex"></a>
 
@@ -108,7 +96,7 @@
 ## SPOOFER 機器解鎖 <a href="#spoofer" id="spoofer"></a>
 
 * [遠端解機 | 前置作業](spoofer/spoof.md)
-* [\[軟解\] Reported.lol 使用教學](spoofer/ruan-jie-reported.lol-shi-yong-jiao-xue.md)
+* [\[軟解\] Reported.lol 使用教學](spoofer/reported-temp-spoofer-tutorial.md)
 
 ## 手機遊戲 <a href="#moblie-game" id="moblie-game"></a>
 
@@ -116,6 +104,17 @@
 
 ## 整備/停賣區
 
+* [\[DF 三角洲\] DFC 輔助 | 小白友善款](zheng-bei-ting-mai-qu/df-san-jiao-zhou-dfc-fu-zhu-xiao-bai-you-shan-kuan.md)
+* [\[特戰\] DZ 找色自瞄 (正式版)](zheng-bei-ting-mai-qu/dezl-cheat/README.md)
+  * [DEZL重置滑鼠(必做)](zheng-bei-ting-mai-qu/dezl-cheat/dezl-zhong-zhi-hua-shu-bi-zuo.md)
+  * [Dezl 前置設定(必做)](zheng-bei-ting-mai-qu/dezl-cheat/dezl-qian-zhi-she-ding-bi-zuo.md)
+  * [Dezl 電腦設定(必做)](zheng-bei-ting-mai-qu/dezl-cheat/dezl-dian-nao-she-ding-bi-zuo.md)
+  * [Dezl 疑難排解](zheng-bei-ting-mai-qu/dezl-cheat/dezl-yi-nan-pai-jie.md)
+* [\[特戰\] DZ 找色自瞄 (停賣)](zheng-bei-ting-mai-qu/dezl-cheat-1/README.md)
+  * [Dezl 前置設定(必做)](zheng-bei-ting-mai-qu/dezl-cheat-1/dezl-qian-zhi-she-ding-bi-zuo.md)
+  * [Dezl 電腦設定(必做)](zheng-bei-ting-mai-qu/dezl-cheat-1/dezl-dian-nao-she-ding-bi-zuo.md)
+  * [DEZL重置滑鼠](zheng-bei-ting-mai-qu/dezl-cheat-1/dezl-zhong-zhi-hua-shu.md)
+  * [Dezl 疑難排解](zheng-bei-ting-mai-qu/dezl-cheat-1/dezl-yi-nan-pai-jie.md)
 * [普通版 DGAI](zheng-bei-ting-mai-qu/dg.md)
 * [\[APEX\] ANC 輔助](zheng-bei-ting-mai-qu/apex-anc-fu-zhu/README.md)
   * [Nvidia顯卡 前置作業](zheng-bei-ting-mai-qu/apex-anc-fu-zhu/nvidia-xian-ka-qian-zhi-zuo-ye.md)

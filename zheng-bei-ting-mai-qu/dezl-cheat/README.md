@@ -12,16 +12,16 @@ hidden: true
 
 ## 第一部分：三大前置作業(必須完整看完並且符合要求，<mark style="color:red;">否則100%無法使用</mark>)
 
-{% content-ref url="../dezl-cheat/dezl-zhong-zhi-hua-shu.md" %}
-[dezl-zhong-zhi-hua-shu.md](../dezl-cheat/dezl-zhong-zhi-hua-shu.md)
+{% content-ref url="../dezl-cheat-1/dezl-zhong-zhi-hua-shu.md" %}
+[dezl-zhong-zhi-hua-shu.md](../dezl-cheat-1/dezl-zhong-zhi-hua-shu.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../zheng-bei-ting-mai-qu/dezl/dezl-qian-zhi-she-ding-bi-zuo.md" %}
-[dezl-qian-zhi-she-ding-bi-zuo.md](../../zheng-bei-ting-mai-qu/dezl/dezl-qian-zhi-she-ding-bi-zuo.md)
+{% content-ref url="../dezl/dezl-qian-zhi-she-ding-bi-zuo.md" %}
+[dezl-qian-zhi-she-ding-bi-zuo.md](../dezl/dezl-qian-zhi-she-ding-bi-zuo.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../zheng-bei-ting-mai-qu/dezl/dezl-dian-nao-she-ding-bi-zuo.md" %}
-[dezl-dian-nao-she-ding-bi-zuo.md](../../zheng-bei-ting-mai-qu/dezl/dezl-dian-nao-she-ding-bi-zuo.md)
+{% content-ref url="../dezl/dezl-dian-nao-she-ding-bi-zuo.md" %}
+[dezl-dian-nao-she-ding-bi-zuo.md](../dezl/dezl-dian-nao-she-ding-bi-zuo.md)
 {% endcontent-ref %}
 
 ***
@@ -96,6 +96,6 @@ hidden: true
 
 ## 疑難排解
 
-{% content-ref url="../../zheng-bei-ting-mai-qu/dezl/dezl-yi-nan-pai-jie.md" %}
-[dezl-yi-nan-pai-jie.md](../../zheng-bei-ting-mai-qu/dezl/dezl-yi-nan-pai-jie.md)
+{% content-ref url="../dezl/dezl-yi-nan-pai-jie.md" %}
+[dezl-yi-nan-pai-jie.md](../dezl/dezl-yi-nan-pai-jie.md)
 {% endcontent-ref %}
