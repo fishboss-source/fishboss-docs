@@ -107,8 +107,8 @@
 
 ## SPOOFER 機器解鎖 <a href="#spoofer" id="spoofer"></a>
 
-* [Page 1](spoofer/page-1.md)
 * [遠端解機 | 前置作業](spoofer/spoof.md)
+* [\[軟解\] Reported.lol 使用教學](spoofer/ruan-jie-reported.lol-shi-yong-jiao-xue.md)
 
 ## 手機遊戲 <a href="#moblie-game" id="moblie-game"></a>
 
