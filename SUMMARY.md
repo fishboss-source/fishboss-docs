@@ -16,7 +16,7 @@
   * [TPM關閉教學](instruction/faq/tpm-guan-bi-jiao-xue.md)
   * [地區設定(簡體)](instruction/faq/changelanguage.md)
   * [停用GPU硬體加速](instruction/faq/ting-yong-gpu-ying-ti-jia-su.md)
-  * [輔助驅動載入失敗解決辦法](instruction/faq/fu-zhu-qu-dong-zai-ru-shi-bai-jie-jue-ban-fa.md)
+  * [驅動載入失敗解決指南](instruction/faq/fix-driver-loading-failed.md)
   * [停用GameBar + 遊戲模式](instruction/faq/ting-yong-gamebar-+-you-xi-mo-shi.md)
   * [其他啟動/無效問題(詳細方法)](instruction/faq/qi-ta-qi-dong-wu-xiao-wen-ti-xiang-xi-fang-fa.md)
   * [WinRAR 安裝與解壓縮教學](instruction/faq/how-to-use-winrar.md)
