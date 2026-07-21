@@ -18,8 +18,8 @@ hidden: true
 
 ### 2. 地區設定
 
-{% content-ref url="../../instruction/preparation/faq/changelanguage.md" %}
-[changelanguage.md](../../instruction/preparation/faq/changelanguage.md)
+{% content-ref url="../../instruction/faq/changelanguage.md" %}
+[changelanguage.md](../../instruction/faq/changelanguage.md)
 {% endcontent-ref %}
 
 ### 3. 電腦設定

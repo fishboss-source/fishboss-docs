@@ -84,4 +84,4 @@ LHC官網([點我前往](https://www.google.com/url?q=https://lethalcheats.net/p
 
 若仍有問題請等待更新，有時候R6每人遊戲版本不同問題
 
-### 其他問題（[點我前往](../instruction/preparation/faq/)）
+### 其他問題（[點我前往](../instruction/faq/)）

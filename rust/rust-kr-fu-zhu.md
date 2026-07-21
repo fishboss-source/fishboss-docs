@@ -76,7 +76,7 @@ hidden: true
 
 ## 三、疑難排解
 
-### 中文菜單顯示亂碼([點我解決](../instruction/preparation/faq/changelanguage.md))
+### 中文菜單顯示亂碼([點我解決](../instruction/faq/changelanguage.md))
 
 ### 遊戲啟動判讀問題
 
@@ -94,5 +94,5 @@ hidden: true
 
 <mark style="color:red;">沒轉完圈圈啥都別動</mark>-> 跑出輔助選項-> 問題解決
 
-### 其他問題([點我前往](../instruction/preparation/faq/))
+### 其他問題([點我前往](../instruction/faq/))
 

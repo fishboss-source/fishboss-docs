@@ -126,5 +126,5 @@ Win鍵-搜尋核心隔離或core-打開設定-將選項關閉並重啟電腦
 
 從控制台移除程序:ONE DRIVE (微軟程序)， 然後重啟電腦，如果沒解決，請重灌電腦。
 
-### 其他問題（[點我前往](../instruction/preparation/faq/)）
+### 其他問題（[點我前往](../instruction/faq/)）
 

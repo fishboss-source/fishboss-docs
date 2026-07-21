@@ -26,8 +26,8 @@
 **請注意這邊此款輔助需要 \[開啟VT] 並 \[關閉Hyper-V]**
 {% endhint %}
 
-{% content-ref url="../../instruction/preparation/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md" %}
-[xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md](../../instruction/preparation/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
+{% content-ref url="../../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md" %}
+[xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md](../../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
 {% endcontent-ref %}
 
 ### 做完後，請繼續往下看
@@ -104,8 +104,8 @@
 
 ### 遊戲黑頻 / 輔助黑頻 (解決辦法)
 
-* [關閉GPU硬體加速](../../instruction/preparation/faq/ting-yong-gpu-ying-ti-jia-su.md)
-* [關閉遊戲模式](../../instruction/preparation/faq/ting-yong-gamebar-+-you-xi-mo-shi.md)
+* [關閉GPU硬體加速](../../instruction/faq/ting-yong-gpu-ying-ti-jia-su.md)
+* [關閉遊戲模式](../../instruction/faq/ting-yong-gamebar-+-you-xi-mo-shi.md)
 
 ***
 

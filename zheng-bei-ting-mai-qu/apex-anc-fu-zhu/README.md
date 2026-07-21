@@ -28,8 +28,8 @@ hidden: true
 **請注意這邊此款輔助需要 \[開啟VT] 並 \[關閉Hyper-V]**
 {% endhint %}
 
-{% content-ref url="../../instruction/preparation/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md" %}
-[xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md](../../instruction/preparation/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
+{% content-ref url="../../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md" %}
+[xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md](../../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
 {% endcontent-ref %}
 
 ### 做完後，請繼續往下看

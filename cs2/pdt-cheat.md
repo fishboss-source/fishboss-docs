@@ -116,4 +116,4 @@ Win鍵搜尋WARP直接啟動
 
 <div align="left"><figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure></div>
 
-### 其他問題([點我前往](../instruction/preparation/faq/))
+### 其他問題([點我前往](../instruction/faq/))

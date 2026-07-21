@@ -39,19 +39,19 @@ hidden: true
 
 ### <mark style="background-color:green;">EAC/BE反作弊(APEX、PUBG等)</mark>：必須關閉安全開機
 
-#### - 安全開機關閉教學(必須)：[點我查看](../instruction/preparation/step3.md) - TPM關閉教學(選擇性)：[點我查看](../instruction/preparation/faq/tpm-guan-bi-jiao-xue.md)
+#### - 安全開機關閉教學(必須)：[點我查看](../instruction/preparation/step3.md) - TPM關閉教學(選擇性)：[點我查看](../instruction/faq/tpm-guan-bi-jiao-xue.md)
 
 <figure><img src="../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="background-color:red;">VGK反作弊(特戰Valorant、英雄聯盟LOL)</mark>：必須關閉安全開機+TPM
 
-#### - 安全開機關閉教學(必須)：[點我查看](../instruction/preparation/step3.md) - TPM關閉教學(必須)：[點我查看](../instruction/preparation/faq/tpm-guan-bi-jiao-xue.md)
+#### - 安全開機關閉教學(必須)：[點我查看](../instruction/preparation/step3.md) - TPM關閉教學(必須)：[點我查看](../instruction/faq/tpm-guan-bi-jiao-xue.md)
 
 <figure><img src="../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
 ### 所有反作弊系統(EAC/BE/VGK)：必須關閉虛擬化技術VT
 
-#### - 虛擬化技術VT關閉教學：[點我查看](../instruction/preparation/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
+#### - 虛擬化技術VT關閉教學：[點我查看](../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
 
 <figure><img src="../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure>
 

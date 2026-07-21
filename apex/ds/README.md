@@ -14,8 +14,8 @@ hidden: true
 
 ### 必須關閉虛擬化技術和Hyper-V&#x20;
 
-{% content-ref url="../../instruction/preparation/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md" %}
-[xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md](../../instruction/preparation/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
+{% content-ref url="../../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md" %}
+[xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md](../../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
 {% endcontent-ref %}
 
 ## 第二步：安裝輔助

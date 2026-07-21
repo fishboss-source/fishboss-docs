@@ -11,14 +11,15 @@
   * [第二步-安裝必裝驅動](instruction/preparation/step2.md)
   * [第二步-檢查系統資訊](instruction/preparation/step3.md)
   * [第三步-輔助位置及狀態](instruction/preparation/di-san-bu-fu-zhu-wei-zhi-ji-zhuang-tai.md)
-  * [輔助驅動載入失敗解決辦法](instruction/preparation/fu-zhu-qu-dong-zai-ru-shi-bai-jie-jue-ban-fa.md)
-  * [虛擬化技術(VT)與HyperV技術](instruction/preparation/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
-  * [常見問題(FAQ)](instruction/preparation/faq/README.md)
-    * [TPM關閉教學](instruction/preparation/faq/tpm-guan-bi-jiao-xue.md)
-    * [地區設定(簡體)](instruction/preparation/faq/changelanguage.md)
-    * [停用GPU硬體加速](instruction/preparation/faq/ting-yong-gpu-ying-ti-jia-su.md)
-    * [停用GameBar + 遊戲模式](instruction/preparation/faq/ting-yong-gamebar-+-you-xi-mo-shi.md)
-    * [其他啟動/無效問題(詳細方法)](instruction/preparation/faq/qi-ta-qi-dong-wu-xiao-wen-ti-xiang-xi-fang-fa.md)
+* [常見問題(FAQ)](instruction/faq/README.md)
+  * [虛擬化技術(VT)與HyperV技術](instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
+  * [TPM關閉教學](instruction/faq/tpm-guan-bi-jiao-xue.md)
+  * [地區設定(簡體)](instruction/faq/changelanguage.md)
+  * [停用GPU硬體加速](instruction/faq/ting-yong-gpu-ying-ti-jia-su.md)
+  * [輔助驅動載入失敗解決辦法](instruction/faq/fu-zhu-qu-dong-zai-ru-shi-bai-jie-jue-ban-fa.md)
+  * [停用GameBar + 遊戲模式](instruction/faq/ting-yong-gamebar-+-you-xi-mo-shi.md)
+  * [其他啟動/無效問題(詳細方法)](instruction/faq/qi-ta-qi-dong-wu-xiao-wen-ti-xiang-xi-fang-fa.md)
+  * [WinRAR 安裝與解壓縮教學](instruction/faq/how-to-use-winrar.md)
 
 ## AI自瞄 <a href="#ai" id="ai"></a>
 

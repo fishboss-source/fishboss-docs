@@ -118,4 +118,4 @@
 
 請<mark style="color:red;">確認卡號是否正確</mark>，不能有空格，建議複製貼上
 
-### 其他問題（[點我前往](../instruction/preparation/faq/)）
+### 其他問題（[點我前往](../instruction/faq/)）
