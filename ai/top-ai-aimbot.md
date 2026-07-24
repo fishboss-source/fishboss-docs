@@ -146,6 +146,15 @@
 
 ## 三、疑難排解
 
+### <mark style="background-color:$danger;">介面無法點、直接卡住沒有跳錯誤窗</mark>
+
+解法：不要開啟自動登入功能
+
+<div align="left"><figure><img src="../.gitbook/assets/image (681).png" alt="" width="282"><figcaption></figcaption></figure></div>
+
+如果已經開了，可以刪除lic.ini這個檔案來重置\
+![](<../.gitbook/assets/image (682).png>)
+
 ### <mark style="background-color:$danger;">輔助閃退/ drv驅動安裝失敗等問題</mark>
 
 1. 確保防毒已經關閉
