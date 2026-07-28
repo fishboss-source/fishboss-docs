@@ -31,6 +31,7 @@
 
 ## VALORANT特戰英豪 <a href="#valorant" id="valorant"></a>
 
+* [\[特戰\] SNTL 私人輔助 | 可暴力 可演戲](valorant/sentinal-cheat.md)
 * [\[特戰\] SC換膚輔助](valorant/sc_skinchanger.md)
 * [\[特戰\] SMD輔助 移除反作弊 使用教學](valorant/valorant-smd-emulator-tutorial.md)
 
