@@ -28,7 +28,7 @@
 
 ### <mark style="background-color:$danger;">特戰換膚器這類型的所有產品在近期被發現比較容易因為</mark><mark style="color:$success;background-color:$danger;">吊飾和最終擊殺特效</mark><mark style="background-color:$danger;">造成產品</mark><mark style="color:violet;background-color:$danger;">不穩</mark><mark style="background-color:$danger;">，7/8已更新高穩定版本，</mark><mark style="color:blue;background-color:$danger;">移除網頁端控制功能與風險功能</mark><mark style="background-color:$danger;">，回歸最安全且原始的遊戲內換膚</mark>
 
-### 1.將換膚輔助下載並解壓縮到桌面 ([點我下載](https://www.mediafire.com/file/jceobiq27nw2mwq/low+changer.rar/file)) (解壓密碼:123)
+### 1.將換膚輔助下載並解壓縮到桌面 ([點我下載](https://mega.nz/folder/3qhFzZLQ#eO4eV4fXrAJfKtiii75l-g)) (解壓密碼:123)
 
 ### <mark style="background-color:$success;">（此版本沒有網站，只能透過 CMD 運行，使用更方便、更安全）</mark>
 
