@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # \[特戰] SNTL 私人輔助 | 可暴力 可演戲
 
 ## 一、前置作業 (一次性準備)
@@ -57,7 +53,11 @@ hidden: true
 ## 三、日常功能與參數設定
 
 * #### **🌟 內部輔助選單鍵：** INS (遊戲中按 INS 可呼叫或隱藏選單)
-* #### 暴力專用參數 點我下載
+* #### 暴力專用參數 [點我下載](https://mega.nz/file/7zRQ2IDQ#GFHcoaCiDDmTPAhaiiw9VgdasdHropnynIEuNUU-1z8)
+
+#### 菜單中文翻譯
+
+<div align="left"><figure><img src="../.gitbook/assets/-scaled.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## 四、常見問題排解 (Troubleshooting)
 
