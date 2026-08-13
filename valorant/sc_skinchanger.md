@@ -63,16 +63,16 @@
 
 ### 3. 回到剛剛的黑窗登入輔助，打上剛剛註冊的帳密
 
-### 4. 登入成功之後，請<mark style="color:$danger;">回到遊戲背包點一下畫面</mark>
+### 4. 登入成功之後，請<mark style="color:$danger;">馬上回到遊戲背包點一下畫面</mark>
 
 {% hint style="info" %}
 ### 非常重要
 
-### 登入成功之後，請<mark style="color:$danger;">回到遊戲背包點一下畫面來導入換膚</mark>
+### 登入成功之後，請<mark style="color:$danger;">馬上回到遊戲背包點一下畫面來導入換膚</mark>
 
-### 登入成功之後，請<mark style="color:$danger;">回到遊戲背包點一下畫面來導入換膚</mark>
+### 登入成功之後，請<mark style="color:$danger;">馬上回到遊戲背包點一下畫面來導入換膚</mark>
 
-### 登入成功之後，請<mark style="color:$danger;">回到遊戲背包點一下畫面來導入換膚</mark>
+### 登入成功之後，請<mark style="color:$danger;">馬上回到遊戲背包點一下畫面來導入換膚</mark>
 {% endhint %}
 
 <div align="left"><figure><img src="../.gitbook/assets/image (61).png" alt="" width="563"><figcaption></figcaption></figure></div>
