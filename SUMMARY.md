@@ -23,6 +23,14 @@
 
 ## AI自瞄 <a href="#ai" id="ai"></a>
 
+* [NANO教學入口](ai/nano-jiao-xue-ru-kou/README.md)
+  * [NANO 下載、安裝與授權登入](ai/nano-jiao-xue-ru-kou/nano-xia-zai-an-zhuang-yu-shou-quan-deng-ru.md)
+  * [NANO 主介面與狀態資訊](ai/nano-jiao-xue-ru-kou/nano-zhu-jie-mian-yu-zhuang-tai-zi-xun.md)
+  * [模型載入與畫面擷取設定](ai/nano-jiao-xue-ru-kou/mo-xing-zai-ru-yu-hua-mian-xie-qu-she-ding.md)
+  * [移動輸出方式設定](ai/nano-jiao-xue-ru-kou/yi-dong-shu-chu-fang-shi-she-ding.md)
+  * [首次瞄準設定與目標分類](ai/nano-jiao-xue-ru-kou/shou-ci-miao-zhun-she-ding-yu-mu-biao-fen-lei.md)
+  * [NANO 啟動與狀態確認](ai/nano-jiao-xue-ru-kou/nano-qi-dong-yu-zhuang-tai-que-ren.md)
+  * [NANO 常見問題與故障排查](ai/nano-jiao-xue-ru-kou/nano-chang-jian-wen-ti-yu-gu-zhang-pai-cha.md)
 * [TOP AI 自瞄安裝使用教學](ai/top-ai-aimbot.md)
 * [TOP AI 詳細參數調適教學](ai/config-tutorial.md)
 * [TOP AI 雙機功能使用教學](ai/top-ai-shuang-ji-gong-neng-shi-yong-jiao-xue.md)
