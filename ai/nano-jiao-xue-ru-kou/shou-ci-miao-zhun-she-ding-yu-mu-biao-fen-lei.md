@@ -6,12 +6,14 @@
 
 點左側選單的 **瞄準**，這裡是整個瞄準邏輯的核心。
 
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040508.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### 1. 新增瞄準按鍵
 
-進入瞄準頁後，先點右上角 **新增按鍵**：
-
+進入瞄準頁後，先點右上角 **新增按鍵**：\
+按下任意按鍵後就會自動綁定熱鍵\
 新增後會出現按鍵卡片（例如「滑鼠左鍵」）：
 
 可在此設定：
@@ -20,11 +22,15 @@
 * 啟用開關
 * 生效規則（例如「最後按下優先」）
 
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040525.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### 2. 控制參數（X 軸 / Y 軸）
 
 在「控制參數」分頁可調整：
+
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040544.png" alt=""><figcaption></figcaption></figure>
 
 | 參數  | 說明       |
 | --- | -------- |
@@ -40,6 +46,8 @@ X 軸與 Y 軸可分別調整。
 
 往下捲動可看到：
 
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040553.png" alt=""><figcaption></figcaption></figure>
+
 重要參數：
 
 * **最大範圍 X / Y**：瞄準有效區域上限
@@ -53,9 +61,13 @@ X 軸與 Y 軸可分別調整。
 
 點「類別設定」分頁：
 
-系統會自動讀取模型的所有類別（例如 `0·0`、`1·1`）：
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040606.png" alt=""><figcaption></figcaption></figure>
+
+#### <mark style="color:$success;">系統會自動讀取模型的所有類別（例如特戰</mark> <mark style="color:$success;"></mark><mark style="color:$success;">`0·0`</mark><mark style="color:$success;">、</mark><mark style="color:$success;">`1·1`</mark><mark style="color:$success;">區分敵人和隊友)</mark>
 
 可調整項目：
+
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040726.png" alt=""><figcaption></figcaption></figure>
 
 | 項目       | 說明                                     |
 | -------- | -------------------------------------- |
@@ -71,8 +83,10 @@ X 軸與 Y 軸可分別調整。
 
 ### 5. 套用並儲存
 
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040742.png" alt=""><figcaption></figcaption></figure>
+
 所有調整完成後，務必點右下角 **套用並儲存**：
 
 未儲存的變更會顯示「有未儲存變更」提示。儲存後請確認提示已消失。
 
-**下一步：** 啟動與狀態確認。
+#### [**下一步：** 啟動與狀態確認。](nano-qi-dong-yu-zhuang-tai-que-ren.md)
