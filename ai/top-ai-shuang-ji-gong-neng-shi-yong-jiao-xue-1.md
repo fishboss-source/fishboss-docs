@@ -32,7 +32,7 @@ hidden: true
 🖥️<mark style="color:$primary;">**計算解析度**</mark>\
 &#x20;     _X 的計算公式 <mark style="background-color:blue;">( 解析度寬度 - 320 ) / 2</mark>_ \
 &#x20;     _Y 的計算公式 <mark style="background-color:purple;">( 解析度高度 - 320 ) / 2</mark>_\
-&#xNAN;_<mark style="background-color:green;">--------------------------------------</mark>_\
+_<mark style="background-color:green;">--------------------------------------</mark>_\
 &#x20;     <mark style="color:$success;">**以2k解析度舉例**</mark>\
 &#x20;      **2560x1440**\
 &#x20;      **X(2560-320)/2=1120**\

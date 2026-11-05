@@ -8,6 +8,8 @@
 
 ### 介面說明
 
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 035918.png" alt=""><figcaption></figcaption></figure>
+
 #### 左側選單
 
 | 選單項目 | 功能        |
@@ -30,7 +32,7 @@
 
 * 執行狀態指示燈
 * 目前 FPS
-* 移動方式（例如 SendInput / drv驅動）
+* 移動方式（<mark style="color:$success;">例如mckcu</mark> / drv驅動）
 * 大顆 **啟動** 按鈕
 
 > 所有設定完成後，再回來點「啟動」。尚未啟動時無即時效能資料不一定是故障。
