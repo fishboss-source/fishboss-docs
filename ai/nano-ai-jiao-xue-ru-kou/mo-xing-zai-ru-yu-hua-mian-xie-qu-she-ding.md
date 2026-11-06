@@ -48,11 +48,12 @@
 
 #### 設定模型系列與
 
-載入模型後，務必選擇正確的 **模型系列**：
+### <mark style="color:$danger;">載入模型後，務必選擇正確的</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">**模型系列**</mark>：
+
+<figure><img src="../../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
 
 常見系列包含：
 
-* YOLOX
 * YOLO v5 / v7 / v8 / v10 / v11 / v12 / v26 等
 
 **模型精度**：

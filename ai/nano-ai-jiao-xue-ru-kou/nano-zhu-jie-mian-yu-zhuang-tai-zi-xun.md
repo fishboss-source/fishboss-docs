@@ -37,4 +37,8 @@
 
 > 所有設定完成後，再回來點「啟動」。尚未啟動時無即時效能資料不一定是故障。
 
+#### <mark style="color:$danger;">關閉NANO時務必這樣退出不然下次會無法登入</mark>
+
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-07 035118.png" alt=""><figcaption></figcaption></figure>
+
 #### [**下一步：** 模型載入與畫面擷取。](mo-xing-zai-ru-yu-hua-mian-xie-qu-she-ding.md)
