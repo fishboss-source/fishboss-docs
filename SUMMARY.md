@@ -31,11 +31,11 @@
   * [首次瞄準設定與目標分類](ai/nano-ai-jiao-xue-ru-kou/shou-ci-miao-zhun-she-ding-yu-mu-biao-fen-lei.md)
   * [NANO 啟動與狀態確認](ai/nano-ai-jiao-xue-ru-kou/nano-qi-dong-yu-zhuang-tai-que-ren.md)
   * [NANO 常見問題與故障排查](ai/nano-ai-jiao-xue-ru-kou/nano-chang-jian-wen-ti-yu-gu-zhang-pai-cha.md)
-* [TOP AI 自瞄安裝使用教學](ai/top-ai-aimbot.md)
-* [TOP AI 詳細參數調適教學](ai/config-tutorial.md)
-* [TOP AI 雙機功能使用教學](ai/top-ai-shuang-ji-gong-neng-shi-yong-jiao-xue.md)
+* [TOP AI 自瞄安裝使用教學](ai/top-ai-aimbot/README.md)
+  * [TOP AI 詳細參數調適教學](ai/top-ai-aimbot/config-tutorial.md)
+  * [TOP AI 雙機功能使用教學](ai/top-ai-aimbot/top-ai-shuang-ji-gong-neng-shi-yong-jiao-xue.md)
 * [MAKCU  火爆客服保母級安裝教學](ai/makcu-huo-bao-ke-fu-bao-mu-ji-an-zhuang-jiao-xue.md)
-* [TOP AI 雙機功能使用教學](ai/top-ai-shuang-ji-gong-neng-shi-yong-jiao-xue-1.md)
+* [TOP AI 雙機功能使用教學](ai/top-ai-shuang-ji-gong-neng-shi-yong-jiao-xue.md)
 
 ## VALORANT特戰英豪 <a href="#valorant" id="valorant"></a>
 
