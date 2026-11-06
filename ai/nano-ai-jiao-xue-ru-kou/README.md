@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# NANO教學入口
+# NANO AI 教學入口
 
 ## NANO 使用教學｜新手快速開始
 
