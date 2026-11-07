@@ -31,7 +31,7 @@
 
 ### 2. 登入
 
-雙擊執行 `Nano.v1.05.exe`，會出現登入視窗：
+### <mark style="color:$danger;">工作管理員執行</mark> `Nano.v1.05.exe`，會出現登入視窗：
 
 <figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 035842.png" alt=""><figcaption></figcaption></figure>
 
