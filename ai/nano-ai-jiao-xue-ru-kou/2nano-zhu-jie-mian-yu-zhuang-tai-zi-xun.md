@@ -1,4 +1,4 @@
-# NANO 主介面與狀態資訊
+# \[2]NANO 主介面與狀態資訊
 
 ## CGC NANO 主介面與狀態資訊
 
@@ -43,4 +43,4 @@
 
 ##
 
-#### [**下一步：** 模型載入與畫面擷取。](mo-xing-zai-ru-yu-hua-mian-xie-qu-she-ding.md)
+#### [**下一步：** 模型載入與畫面擷取。](3-mo-xing-zai-ru-yu-hua-mian-xie-qu-she-ding.md)

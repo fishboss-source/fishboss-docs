@@ -1,4 +1,4 @@
-# 移動輸出方式設定
+# \[4]移動輸出方式設定
 
 ## CGC NANO 移動輸出方式設定
 
@@ -39,5 +39,5 @@
 > 使用 `drv驅動` 時，建議先停止擷取 → 套用並儲存 → 再重新啟動。\
 > 外部硬體裝置需確認韌體與實際相容性。
 
-#### [**下一步：** 首次瞄準設定。](shou-ci-miao-zhun-she-ding-yu-mu-biao-fen-lei.md)
+#### [**下一步：** 首次瞄準設定。](5-shou-ci-miao-zhun-she-ding-yu-mu-biao-fen-lei.md)
 

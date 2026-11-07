@@ -1,4 +1,4 @@
-# 模型載入與畫面擷取設定
+# \[3]模型載入與畫面擷取設定
 
 ## CGC NANO 模型載入與畫面擷取設定
 
@@ -63,4 +63,4 @@
 
 設定完成後，點右下角 <mark style="color:$success;">**套用並儲存**</mark>。確認畫面保留所選模型；是否成功推論需啟動後觀察日誌。
 
-#### [**下一步：** 移動輸出方式設定。](yi-dong-shu-chu-fang-shi-she-ding.md)
+#### [**下一步：** 移動輸出方式設定。](4-yi-dong-shu-chu-fang-shi-she-ding.md)
