@@ -30,6 +30,7 @@
   * [移動輸出方式設定](ai/nano-ai-jiao-xue-ru-kou/yi-dong-shu-chu-fang-shi-she-ding.md)
   * [首次瞄準設定與目標分類](ai/nano-ai-jiao-xue-ru-kou/shou-ci-miao-zhun-she-ding-yu-mu-biao-fen-lei.md)
   * [NANO 啟動與狀態確認](ai/nano-ai-jiao-xue-ru-kou/nano-qi-dong-yu-zhuang-tai-que-ren.md)
+  * [NANO套用預設參數](ai/nano-ai-jiao-xue-ru-kou/nano-tao-yong-yu-she-can-shu.md)
   * [NANO 常見問題與故障排查](ai/nano-ai-jiao-xue-ru-kou/nano-chang-jian-wen-ti-yu-gu-zhang-pai-cha.md)
 * [TOP AI 自瞄安裝使用教學](ai/top-ai-aimbot/README.md)
   * [TOP AI 詳細參數調適教學](ai/top-ai-aimbot/config-tutorial.md)
