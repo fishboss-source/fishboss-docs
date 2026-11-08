@@ -45,7 +45,7 @@
 
 請照此方式完全關閉Nano
 
-<div align="left"><figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 025118.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 055152.png" alt=""><figcaption></figcaption></figure></div>
 
 ### 模型無法載入
 
