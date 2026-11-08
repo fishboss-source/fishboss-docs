@@ -23,7 +23,9 @@
 
 ### 卡密登入失敗
 
-**症狀：** 登入後無法進入控制中心，或、裝置、期限相關錯誤。
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 025229.png" alt=""><figcaption></figcaption></figure>
+
+**症狀：** 登入後無法進入控制中心。
 
 **可能原因：** 卡密輸入錯誤、網路或服務狀態。\
 網路或服務狀態問題 [可下載此VPN ](https://one.one.one.one/zh-Hant/) 開啟後再登入Nano
@@ -38,6 +40,12 @@
 4. 保留遮蔽卡密後的錯誤截圖，交由魚老闆客服核對。
 
 **如何確認：** 能正常登入並進入「總覽」畫面。
+
+### 沒有完全關閉Nano就重新登入
+
+請照此方式完全關閉Nano
+
+<div align="left"><figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 025118.png" alt=""><figcaption></figcaption></figure></div>
 
 ### 模型無法載入
 
