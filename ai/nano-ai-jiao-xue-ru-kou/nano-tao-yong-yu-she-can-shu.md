@@ -2,17 +2,9 @@
 
 ### <mark style="color:$success;">(目前有特戰與APEX懶人自瞄參數)</mark>
 
-#### 點擊上方...圖示 選擇匯入
+#### 點擊上方設定圖示 選擇你要玩的遊戲
 
-<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-07 155410.png" alt=""><figcaption></figcaption></figure>
-
-#### 再彈出的窗口選擇配置資料夾
-
-<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-07 155429.png" alt=""><figcaption></figcaption></figure>
-
-#### 選擇您要套用的遊戲配置
-
-<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-07 155437.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 045425.png" alt=""><figcaption></figcaption></figure>
 
 #### 回到NANO介面選擇模型
 
