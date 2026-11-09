@@ -1,5 +1,9 @@
 # NANO AI 教學入口
 
+{% hint style="info" %}
+### 產品購買：[https://fishboss.store/shop/nano-ai-aimbot/](https://fishboss.store/shop/nano-ai-aimbot/)
+{% endhint %}
+
 ## NANO 使用教學｜新手快速開始
 
 歡迎來到魚老闆（FishBoss）NANO 使用教學。本專區依照首次使用的實際順序，帶你完成登入、模型載入、畫面擷取、輸出方式與基本設定。

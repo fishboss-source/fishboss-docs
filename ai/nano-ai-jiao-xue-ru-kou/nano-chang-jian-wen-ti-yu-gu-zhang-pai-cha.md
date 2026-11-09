@@ -6,7 +6,7 @@
 
 > **聯絡客服前**：請提供 NANO 版本、Windows 版本、正在使用的遊戲模型名稱、發生階段及**遮蔽卡密／帳號／裝置識別資訊**後的錯誤畫面。
 
-### 無法下載或開啟程式
+### <mark style="background-color:$primary;">無法下載或開啟程式</mark>
 
 **症狀：** 下載失敗、找不到主程式或雙擊後無反應。
 
@@ -21,7 +21,7 @@
 
 **如何確認：** 能開啟 NANO 登入視窗。請勿為了排錯而任意關閉防毒或系統安全功能。
 
-### 卡密登入失敗
+### <mark style="background-color:$primary;">卡密登入失敗</mark>
 
 <figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 025229.png" alt=""><figcaption></figcaption></figure>
 
@@ -41,13 +41,17 @@
 
 **如何確認：** 能正常登入並進入「總覽」畫面。
 
-### 沒有完全關閉Nano就重新登入
+### <mark style="background-color:$primary;">沒有完全關閉Nano就重新登入</mark>
+
+也大機率可能造成以下連接問題 導致登入不進去
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (691).png" alt="" width="283"><figcaption></figcaption></figure></div>
 
 請照此方式完全關閉Nano
 
 <div align="left"><figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 055152.png" alt=""><figcaption></figcaption></figure></div>
 
-### 模型無法載入
+### <mark style="background-color:$primary;">模型無法載入</mark>
 
 **症狀：** 選取模型後報錯、程式沒有顯示模型狀態或啟動失敗。
 
@@ -64,7 +68,7 @@
 
 **如何確認：** 啟動後日誌顯示成功載入模型，並有正常的執行狀態；確切成功訊息待實測補圖。
 
-### 自瞄效果檢查或沒有擷取遊戲畫面
+### <mark style="background-color:$primary;">自瞄效果檢查或沒有擷取遊戲畫面</mark>
 
 **症狀：** 啟動後沒有擷取畫面、FPS 未更新或沒有可辨識目標。
 
@@ -75,6 +79,6 @@
 
 {% embed url="https://youtu.be/2cx6GRE25V4" %}
 
-### 哪些情況需要聯絡客服？
+### <mark style="background-color:$primary;">哪些情況需要聯絡客服？</mark>
 
 如出現授權限制、重複啟用、無法辨識的錯誤代碼、官方模型無法使用或設備相容問題，請透過魚老闆Discord客服窗口回報。

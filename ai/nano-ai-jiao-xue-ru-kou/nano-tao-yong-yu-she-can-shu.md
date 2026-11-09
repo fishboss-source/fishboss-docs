@@ -28,6 +28,14 @@
 
 [不清楚的點我看這頁](4-yi-dong-shu-chu-fang-shi-she-ding.md)
 
+{% hint style="info" %}
+魚老闆建議：有預算且長期遊玩可直接購買makcu一勞永逸，短暫體驗或是預算有限，直接用drv也是沒有任何問題
+
+<mark style="color:$success;">移動方式選擇</mark>\
+drv: 快速且方便的選擇\
+makcu: 需要花點小錢 但又穩又好用
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-07 171935.png" alt=""><figcaption></figcaption></figure>
 
 #### 之後啟用即可
