@@ -1,18 +1,16 @@
 # \[4]移動輸出方式設定
 
-## CGC NANO 移動輸出方式設定
+## NANO 移動輸出方式設定
 
-介面列出的後端選項不代表全部已通過實機相容性驗證。
+### 選輸出裝置點左側選單的 **移動**。
 
-點左側選單的 **移動**。
+點「後端」下拉選單，可選擇 以makcu為例:
 
-<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040414.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-07 171935.png" alt=""><figcaption></figcaption></figure>
 
-### 選擇輸出裝置
+選擇好後端後，點右下角 **套用並儲存**：
 
-點「後端」下拉選單，可選擇：
-
-<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040153.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 190249.png" alt=""><figcaption></figcaption></figure>
 
 目前支援：
 
@@ -27,13 +25,9 @@
 | Ferrum    | <mark style="color:$success;">Ferrum 裝置(非常推薦但這款盒子很貴)</mark> |
 | Dhzbox    | Dhzbox 裝置(推薦)                                               |
 
-***
+#### 設定好後按下連線
 
-### 套用設定
-
-選擇好後端後，點右下角 **套用並儲存**：
-
-<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-05 040424.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-09 190517.png" alt=""><figcaption></figcaption></figure>
 
 > **補充**：\
 > 使用 `drv驅動` 時，建議先停止擷取 → 套用並儲存 → 再重新啟動。\
