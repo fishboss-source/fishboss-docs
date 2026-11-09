@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # \[DF 三角洲] ANC 輔助 | 高穩驅動款
 
 {% hint style="success" %}

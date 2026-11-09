@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 神魔之塔助手 | AI 智能秒通關
 
 {% hint style="success" %}
