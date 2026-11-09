@@ -158,3 +158,7 @@
 ## 硬體教學 <a href="#hardware" id="hardware"></a>
 
 * [KMBOX-NET 教學](hardware/kmboxnet-jiao-xue.md)
+
+***
+
+* [全遊戲通用 AI 自瞄 輔助 / 外掛 - 魚老闆遊戲輔助™](quan-you-xi-tong-yong-ai-zi-miao-fu-zhu-wai-gua-yu-lao-ban-you-xi-fu-zhu.md)

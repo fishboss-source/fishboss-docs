@@ -4,12 +4,19 @@
 
 > **授權重要提醒**：NANO 天卡同一裝置只能啟用一次，即使再買天卡也不能在同裝置第二次啟用。TOP 卡密無法轉換至 NANO。
 
-### 下載及環境檢查
+### 0. 下載及環境檢查
 
-請使用魚老闆提供的正式來源下載程式<br>
+請使用魚老闆提供的正式來源下載程式
 
-[點我下載](https://mega.nz/folder/26IWEIzK#NamIHLrpCXSEYPW4n8p1Yw)<br>
-------------------------------------------------------------------
+### <a href="https://mega.nz/folder/26IWEIzK#NamIHLrpCXSEYPW4n8p1Yw" class="button primary">點我前往下載</a>
+
+{% hint style="danger" %}
+## 懶人教學影片
+
+### 不想看文字，請直接看下面這影片&#xD; 不照教學做的拉屎都沒衛生紙用
+{% endhint %}
+
+{% embed url="https://youtu.be/BQkoLfzOczQ" %}
 
 ### 1. 資料夾結構
 
