@@ -18,7 +18,7 @@
 | --------- | ----------------------------------------------------------- |
 | 系統輸入      | <mark style="color:$danger;">使用 SendInput（不要使用）</mark>      |
 | **drv驅動** | <mark style="color:$primary;">單機驅動(不適合長時間使用)</mark>         |
-| KmBox Net | 硬體訊號盒子(推薦)                                                  |
+| KmBox Net | <mark style="color:$primary;">(一般推薦有固件匹配問題有機率無法使用)</mark>   |
 | CatBox    | CatBox 裝置(推薦)                                               |
 | KmBox A   | <mark style="color:$danger;">KmBox A 裝置(不推薦)</mark>         |
 | Makcu     | <mark style="color:$success;">Makcu 裝置(非常推薦cp值極高)</mark>    |
