@@ -56,6 +56,8 @@
 
 ## APEX英雄輔助 <a href="#apex" id="apex"></a>
 
+* [\[APEX\] COLA 輔助下載與使用教學](apex/apex-cola-fu-zhu-xia-zai-yu-shi-yong-jiao-xue/README.md)
+  * [COLA 常用功能與問題排解](apex/apex-cola-fu-zhu-xia-zai-yu-shi-yong-jiao-xue/cola-chang-yong-gong-neng-yu-wen-ti-pai-jie.md)
 * [\[APEX\] XM 輔助 | 高穩隱蔽款](apex/xm-cheat.md)
 * [\[APEX\] VT 輔助 | 頂規強效款](apex/vt-cheat.md)
 * [\[APEX\] KA 輔助](apex/ka-cheat/README.md)
