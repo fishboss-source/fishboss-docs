@@ -18,7 +18,7 @@
 [amd-xian-ka-qian-zhi-zuo-ye.md](../../zheng-bei-ting-mai-qu/apex-anc-fu-zhu/amd-xian-ka-qian-zhi-zuo-ye.md)
 {% endcontent-ref %}
 
-### 2. 請確保你有把 [通用前置作業四步驟](https://fishboss.gitbook.io/tutorial) 做完(但安全開機和TPM一定保持開啟)
+### 2. 請確保你有把 [通用前置作業四步驟](https://fishboss.gitbook.io/tutorial) 做完(但<mark style="color:$danger;">安全開機</mark>和<mark style="color:$danger;">TPM</mark>一定保持開啟)
 
 ### 3. 開啟bios內的vt虛擬化功能
 
