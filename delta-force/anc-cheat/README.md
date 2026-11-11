@@ -18,45 +18,47 @@
 [amd-xian-ka-qian-zhi-zuo-ye.md](../../zheng-bei-ting-mai-qu/apex-anc-fu-zhu/amd-xian-ka-qian-zhi-zuo-ye.md)
 {% endcontent-ref %}
 
-### 2. 請確保你有把 [通用前置作業四步驟](https://fishboss.gitbook.io/tutorial) 做完(但<mark style="color:$danger;">安全開機</mark>和<mark style="color:$danger;">TPM</mark>一定保持開啟)
+### 2. 請確保你有把 [通用前置作業四步驟](https://fishboss.gitbook.io/tutorial) 做完
 
-### 3. 開啟bios內的vt虛擬化功能
+### 3.確認電腦是否為UEFI系統
+
+#### Win+R並輸入msinfo32查詢
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+### 4. 開啟bios內的vt虛擬化功能
 
 {% hint style="info" %}
-**請注意這邊此款輔助需要 \[開啟VT] 並 \[關閉Hyper-V]**
+**請注意這邊此款輔助需要 \[開啟VT] &#x20;**<mark style="color:$danger;">**intel**</mark>**核心需**<mark style="color:$danger;">**啟用**</mark>**&#x20;Hyper V &#x20;**<mark style="color:$success;">**AMD**</mark>**核心則需**<mark style="color:$success;">**停用**</mark>**&#x20;Hyper V**
 {% endhint %}
 
 {% content-ref url="../../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md" %}
 [xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md](../../instruction/faq/xu-ni-hua-ji-shu-vt-yu-hyperv-ji-shu.md)
 {% endcontent-ref %}
 
-### 4.安裝Steelseries-GG([點我下載](https://tw.steelseries.com/gg/downloads/gg/latest/windows))
+### 以上設置完成後<mark style="color:$danger;">須重新啟動</mark>電腦
 
-### 下載後win鍵搜尋Steelseries-GG並打開
+### 5.安裝Discord
 
-### 首先先創建帳號並登入
+#### 首先下載Discord並登入([點我下載](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable\&platform=win\&arch=x64))
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure></div>
+#### 若出現<mark style="color:$danger;">無菜單介面問題</mark>，請下載Canary版本([點我下載](https://canary.discord.com/))
 
-### 進入設置(Settings)找到通用(General)&#x20;
+<div align="left"><figure><img src="../../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure></div>
+#### 接下來到介面左下方，點擊齒輪
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (702).png" alt=""><figcaption></figcaption></figure></div>
 
-### 啟用聲納(Sonar) 功能
+#### 左側列表滑到最下面找到遊戲崁入介面，點進去
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (703).png" alt=""><figcaption></figcaption></figure></div>
 
-### 回到設置 > SONAR - 快捷鍵分頁
+#### 將下圖兩個選項都打開
 
-#### 左排列表往下滑動，即可找到SONAR-快捷鍵分頁
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure></div>
-
-### \[主控-上調音量]熱鍵設定改為F7鍵，並按ENTER完成設定
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure></div>
 
 ### 以上都完成請繼續往下看
 
