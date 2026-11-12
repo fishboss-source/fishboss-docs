@@ -1,8 +1,8 @@
----
-hidden: true
----
-
 # \[APEX] COLA 輔助下載與使用教學
+
+{% hint style="success" %}
+輔助購買：[https://fishboss.store/shop/apex-cola/](https://fishboss.store/shop/apex-cola/)
+{% endhint %}
 
 第一次使用 COLA？照著下面的順序操作就可以了。
 
