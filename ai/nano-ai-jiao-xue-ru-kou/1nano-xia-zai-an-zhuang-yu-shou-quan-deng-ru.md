@@ -18,6 +18,14 @@
 
 {% embed url="https://youtu.be/BQkoLfzOczQ" %}
 
+{% hint style="info" %}
+### 改熱鍵須知
+
+#### 預設參數老闆都調整好了，但有些人有自己習慣的熱鍵，想改請照下方這樣去改，重創新的熱鍵會導致參數要重調，務必像下方這樣直接改掉即可
+{% endhint %}
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (707).png" alt=""><figcaption></figcaption></figure></div>
+
 ### 1. 資料夾結構
 
 解壓縮後的資料夾如下 其他版本可能不同

@@ -38,7 +38,7 @@
 
 ### 2.以<mark style="color:$danger;">管理員身分</mark>啟動輔助，有跳出要求權限請允許，否則輔助無效。
 
-<div align="left"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
 ### 3. 接著開始註冊和輸入卡密，註冊完成後先不要登入
 
@@ -83,9 +83,9 @@
 
 <summary>網頁介面版本教學(已過時 請誤參考)</summary>
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="340"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="340"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt="" width="337"><figcaption></figcaption></figure></div>
 

@@ -1,4 +1,4 @@
-# NANO 啟動與狀態確認
+# \[6]NANO 啟動與狀態確認
 
 ## CGC NANO 啟動與狀態確認
 
@@ -57,5 +57,11 @@
 到這裡你已經完成 CGC-Nano 的基本設定流程。
 
 建議先在安全環境測試參數，再依實際手感微調 X/Y 位置、回應與預測等數值。
+
+### 5. 關閉輔助
+
+請務必完整登出輔助
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (709).png" alt=""><figcaption></figcaption></figure></div>
 
 #### [返回 CGC NANO 教學總覽。](./)
