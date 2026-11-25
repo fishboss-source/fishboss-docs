@@ -56,11 +56,12 @@
 
 1. 在「卡密」欄位輸入你的卡密
 2. （可選）勾選「記住卡密」
-3. （可選）勾選「自動登錄」
-4. 點擊 **登錄**
+3. 點擊 **登錄**
 
 登入成功後會進入 CGC NANO 控制中心，看到「總覽」頁面。
 
-**無法登入？** 請核對卡密是否屬於 NANO，並保留遮蔽完整卡密的錯誤畫面，再參考 常見問題與故障排查。
+#### **無法登入？** 請核對卡密是否屬於 NANO，並保留遮蔽完整卡密的錯誤畫面，再參考 常見問題與故障排查。  <mark style="color:$danger;">自動登入不要打勾</mark>
+
+<div align="left"><figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-25 092659.png" alt=""><figcaption></figcaption></figure></div>
 
 #### [**下一步：** 主介面與狀態資訊](2nano-zhu-jie-mian-yu-zhuang-tai-zi-xun.md)&#x20;
