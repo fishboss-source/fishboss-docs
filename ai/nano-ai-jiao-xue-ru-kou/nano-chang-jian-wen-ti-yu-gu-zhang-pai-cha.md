@@ -79,6 +79,23 @@
 
 {% embed url="https://youtu.be/2cx6GRE25V4" %}
 
+### <mark style="background-color:$primary;">DRV載入失敗</mark>
+
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-25 094132.png" alt=""><figcaption></figcaption></figure>
+
+幫我檢查以下幾點\
+1.是否有用管理員身分啟動\
+2.防毒和其他反作弊程式是否都關閉了\
+如Anti-Cheat Expert(ACE)騰訊旗下反作弊\
+CS2的FACEIT反作弊，5E完美平台反作弊\
+3.網路節點堵住 嘗試使用WARP VPN\
+4.確認右下是否跳出\
+這個驅動程式已被封鎖MyRdDrvwwc.sys或drv 無法通過Windows驅動程式的訊息
+
+<div align="left"><figure><img src="../../.gitbook/assets/螢幕擷取畫面 2026-11-25 094257.png" alt=""><figcaption></figcaption></figure></div>
+
+### [<mark style="color:$primary;background-color:$primary;">驅動載入失敗解決指南</mark>](nano-chang-jian-wen-ti-yu-gu-zhang-pai-cha.md#qu-dong-zai-ru-shi-bai-jie-jue-zhi-nan)
+
 ### <mark style="background-color:$primary;">哪些情況需要聯絡客服？</mark>
 
 如出現授權限制、重複啟用、無法辨識的錯誤代碼、官方模型無法使用或設備相容問題，請透過魚老闆Discord客服窗口回報。
