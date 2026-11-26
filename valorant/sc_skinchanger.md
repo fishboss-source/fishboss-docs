@@ -24,6 +24,16 @@
 
 ### 做完<mark style="color:$danger;">重開機</mark>，並接著往下操作
 
+***
+
+{% hint style="warning" %}
+下方為舊款教學
+
+## 下方為舊款教學，2026/11 之後購買的使用者，請直接從網站訂單頁面的下載連結，直接下載輔助，教學與檔案都已經打包成壓縮檔，使用非常簡單
+{% endhint %}
+
+***
+
 ## 二、安裝輔助
 
 ### <mark style="background-color:$danger;">特戰換膚器這類型的所有產品在近期被發現比較容易因為</mark><mark style="color:$success;background-color:$danger;">吊飾和最終擊殺特效</mark><mark style="background-color:$danger;">造成產品</mark><mark style="color:violet;background-color:$danger;">不穩</mark><mark style="background-color:$danger;">，7/8已更新高穩定版本，</mark><mark style="color:blue;background-color:$danger;">移除網頁端控制功能與風險功能</mark><mark style="background-color:$danger;">，回歸最安全且原始的遊戲內換膚</mark>
