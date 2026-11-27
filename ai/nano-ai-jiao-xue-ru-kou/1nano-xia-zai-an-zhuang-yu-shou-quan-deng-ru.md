@@ -28,7 +28,7 @@
 
 ### 如果不小心動到的話下面是預設參數，按照下方參數調整回來即可
 
-<figure><img src="../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (711).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. 資料夾結構
 
