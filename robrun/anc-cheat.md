@@ -1,7 +1,7 @@
 # \[Robrun] ANC 輔助 | 高穩驅動款
 
 {% hint style="success" %}
-## 輔助購買：[https://fishboss.store/shop/deltaforce-anc/](https://fishboss.store/shop/deltaforce-anc/)
+## 輔助購買：[https://fishboss.store/shop/robrun-anc/](https://fishboss.store/shop/robrun-anc/)
 {% endhint %}
 
 ***
